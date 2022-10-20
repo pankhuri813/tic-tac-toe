@@ -1,0 +1,41 @@
+*{
+    background-color: rgb(224, 65, 129);
+}
+
+#heading{
+    display: flex;
+    justify-content: center;
+    font-family: 'Fredoka One';
+    color: #2989a6;
+    -webkit-text-stroke: 5px white;
+    font-size: 90px;
+    margin-bottom: 90px;
+}
+.block{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    display: flex;
+
+    border-radius: 15%;
+
+    margin: 5px 5px 5px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  
+
+}
+.game{
+    display: flex;
+    justify-content: center;
+
+}
+footer{
+    display: flex;
+    justify-content: center;
+    font-weight: 1000;
+    margin-top: 50px;
+
+}
